@@ -1,0 +1,12 @@
+{
+  "itemGroup.echovoid": "Эхо Пустоты",
+  "block.echovoid.echo_stone": "Эхо-камень",
+  "block.echovoid.echo_crystal_ore": "Руда эхо-кристалла",
+  "block.echovoid.echo_crystal_block": "Блок эхо-кристалла",
+  "block.echovoid.echo_portal": "Эхо-портал",
+  "item.echovoid.echo_shard": "Эхо-осколок",
+  "item.echovoid.echo_ingot": "Эхо-слиток",
+  "item.echovoid.crystal_core": "Кристаллическое ядро",
+  "item.echovoid.echo_flint": "Огниво Эха",
+  "biome.echovoid.echoing_abyss": "Бездна Эха"
+}

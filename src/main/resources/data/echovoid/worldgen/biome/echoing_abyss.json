@@ -1,0 +1,35 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.5,
+  "downfall": 0.0,
+  "effects": {
+    "sky_color": 5974662,
+    "fog_color": 2757189,
+    "water_color": 9064400,
+    "water_fog_color": 3807846,
+    "particle": {
+      "probability": 0.01,
+      "options": {
+        "type": "minecraft:end_rod"
+      }
+    }
+  },
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "echovoid:ore_echo_crystal"
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "spawners": {},
+  "spawn_costs": {}
+}

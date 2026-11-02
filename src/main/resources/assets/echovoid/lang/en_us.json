@@ -1,0 +1,12 @@
+{
+  "itemGroup.echovoid": "Echoes of the Void",
+  "block.echovoid.echo_stone": "Echo Stone",
+  "block.echovoid.echo_crystal_ore": "Echo Crystal Ore",
+  "block.echovoid.echo_crystal_block": "Echo Crystal Block",
+  "block.echovoid.echo_portal": "Echo Portal",
+  "item.echovoid.echo_shard": "Echo Shard",
+  "item.echovoid.echo_ingot": "Echo Ingot",
+  "item.echovoid.crystal_core": "Crystal Core",
+  "item.echovoid.echo_flint": "Echo Flint and Steel",
+  "biome.echovoid.echoing_abyss": "Echoing Abyss"
+}

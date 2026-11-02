@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "echovoid:block/echo_stone"
+    }
+  }
+}

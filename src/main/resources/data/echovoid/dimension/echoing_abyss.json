@@ -1,0 +1,11 @@
+{
+  "type": "echovoid:echoing_abyss",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "echovoid:echoing_abyss",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "echovoid:echoing_abyss"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "echovoid:block/echo_portal_ew"
+    },
+    "axis=z": {
+      "model": "echovoid:block/echo_portal_ns"
+    }
+  }
+}

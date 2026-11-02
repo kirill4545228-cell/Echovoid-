@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "echovoid:echo_shard"
+    },
+    {
+      "item": "echovoid:echo_shard"
+    },
+    {
+      "item": "echovoid:echo_shard"
+    },
+    {
+      "item": "echovoid:echo_shard"
+    },
+    {
+      "item": "echovoid:crystal_core"
+    }
+  ],
+  "result": {
+    "item": "echovoid:echo_ingot"
+  }
+}
